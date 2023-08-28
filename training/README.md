@@ -1,0 +1,1 @@
+To run Dreambooth training follow `train_dreambooth_commands.ipynb` notebook.
