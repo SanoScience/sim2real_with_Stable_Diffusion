@@ -1,3 +1,6 @@
+TODO: move code to diffusers - ControlNet pipelines are out
+
+
 We use webui for inference since currently it is a recommended by official ControlNet repository way to merge ControlNet weights with Custom SD weights:  
 https://github.com/lllyasviel/ControlNet/discussions/12  
 
