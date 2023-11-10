@@ -1,6 +1,6 @@
 # sim2real_with_Stable_Diffusion
 
-This is a code for "Minimal Data Requirement for Realistic Endoscopic Image Generation with Stable Diffusion". The repo will be moved to Sano profile soon.
+This is a code for "Minimal Data Requirement for Realistic Endoscopic Image Generation with Stable Diffusion".
 
 We divided the forkflow in 4 steps:
 1. Training
@@ -10,3 +10,6 @@ We divided the forkflow in 4 steps:
 
 Each step has it's own README file so please refer to it.  
 OneDrive with all the resources: https://sanoscience-my.sharepoint.com/:f:/g/personal/j_kaleta_sanoscience_org/Eu61v4XSSvZJrAvnkpVBNukBG6CTcGmqLoySF-lT6_sAcQ?e=kIMkfh
+
+Update: Accepted to IJCARS 
+https://doi.org/10.1007/s11548-023-03030-w
