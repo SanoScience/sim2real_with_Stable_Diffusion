@@ -6,7 +6,7 @@ TODO: move code to diffusers
 We use webui for inference since currently it is a recommended by official ControlNet repository way to merge ControlNet weights with Custom SD weights:  
 https://github.com/lllyasviel/ControlNet/discussions/12  
 
-To run inference we fisrt have to run WebUI + ControlNet extension
+To run inference we first have to run WebUI + ControlNet extension
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui   
 - https://github.com/Mikubill/sd-webui-controlnet  
 Please follow the guidance on official repository explaining how to run webui, extensions and where to put ControlNet models.  
