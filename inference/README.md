@@ -10,6 +10,7 @@ To run inference we fisrt have to run WebUI + ControlNet extension
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui   
 - https://github.com/Mikubill/sd-webui-controlnet  
 Please follow the guidance on official repository explaining how to run webui, extensions and where to put ControlNet models.  
+
 To use WebUI API:
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API
 
