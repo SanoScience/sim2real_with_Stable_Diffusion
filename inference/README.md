@@ -9,7 +9,9 @@ https://github.com/lllyasviel/ControlNet/discussions/12
 To run inference we fisrt have to run WebUI + ControlNet extension
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui   
 - https://github.com/Mikubill/sd-webui-controlnet  
-Please follow the guidance on official repository explaining how to run webui, extensions and where to put ControlNet models.
+Please follow the guidance on official repository explaining how to run webui, extensions and where to put ControlNet models.  
+To use WebUI API:
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API
 
 We use following ControlNet 1.1 checkpoints:
 - https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth
