@@ -2,7 +2,7 @@
 
 This is an official repository for *"Minimal Data Requirement for Realistic Endoscopic Image Generation with Stable Diffusion".*
 
-We divided the forkflow in 4 steps:
+We divided the forkflow into 4 steps:
 1. Training
 2. Preprocessing - for raw simulation images, step before Inference
 3. Inference
