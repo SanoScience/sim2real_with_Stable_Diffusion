@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Read_Paper-Available-green)](https://link.springer.com/article/10.1007/s11548-023-03030-w) [![Dataset](https://img.shields.io/badge/Dataset-Download-blue)](https://sanoscience-my.sharepoint.com/:f:/g/personal/j_kaleta_sanoscience_org/Eu61v4XSSvZJrAvnkpVBNukBG6CTcGmqLoySF-lT6_sAcQ?e=kIMkfh)
 
 This is an official repository for **Minimal Data Requirement for Realistic Endoscopic Image Generation with Stable Diffusion**.
-
+![Sim2Real results](sim2real_asset.png)
 ## Overview
 This repository provides resources and workflows for generating realistic endoscopic images using Stable Diffusion. The methodology is divided into four key steps:
 
