@@ -3,7 +3,7 @@ TODO: move code to diffusers
 
 ---
 
-We use webui for inference since currently it is a recommended by official ControlNet repository way to merge ControlNet weights with Custom SD weights:  
+We use webui for inference. Currently,  according to the official ControlNet repository, it is the recommended way to merge ControlNet weights with Custom SD weights:  
 https://github.com/lllyasviel/ControlNet/discussions/12  
 
 To run inference we first have to run WebUI + ControlNet extension
